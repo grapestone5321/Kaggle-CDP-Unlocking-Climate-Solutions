@@ -4,6 +4,15 @@ Kaggle-CDP-Unlocking-Climate-Solutions
 ## CDP
 https://www.cdp.net/en
 
+### Wikipedia
+https://en.wikipedia.org/wiki/Carbon_Disclosure_Project
+
+The CDP (formerly the Carbon Disclosure Project) is an international non-profit organisation based in the United Kingdom, Germany and the United States of America that helps companies and cities disclose their environmental impact. 
+
+It aims to make environmental reporting and risk management a business norm, driving disclosure, insight, and action towards a sustainable economy.
+
+Since 2002 over 8,400 companies have publicly disclosed environmental information through CDP.
+
 ## Modelling
 ### What next?
 - Suggested analysis and modelling techniques that you can be apply as you tackle the competitions problem statement.
