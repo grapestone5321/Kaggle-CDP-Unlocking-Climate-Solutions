@@ -48,3 +48,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6267440/
 - FIR-PRI. Portfolio Analysis Using Water Shadow Pricing: How Valuing Water Risk Can Reduce Carbon Emissions. 
 
 https://www.fir-pri-awards.org/wp-content/uploads/MasterThesis_Chisem.pdf
+
+
+## GitHub: Getting started with NLP: Traditional approaches
+https://github.com/edumunozsala/Intro-NLP-Text-Classification/blob/master/Intro_NLP_1_TFIDF_Text_Classification.ipynb
+
