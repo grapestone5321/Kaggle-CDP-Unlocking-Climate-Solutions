@@ -28,9 +28,50 @@ Since 2002 over 8,400 companies have publicly disclosed environmental informatio
 
 - Mine information to create automated insight generation demonstrating whether city and corporate ambitions take these factors into account.
 
+-------
 
+## Evaluation
+### HOW TO PARTICIPATE
+To make a submission, complete the submission form. 
 
-### Overview of the Data:
+Only one submission will be judged per participant, so if you make multiple submissions we will only review the most recent entry. 
+
+A starter notebook demonstrates how to load and work with the data.
+
+To be valid, a submission must be contained in one or more notebook, and made public on or before the submission deadline. 
+
+Participants are free to use any datasets in addition to the official Kaggle dataset, but those datasets must be public and hosted on Kaggle for the submission to be valid.
+
+### SUBMISSIONS WILL BE EVALUATED ON THE FOLLOWING
+### Accuracy/Completeness
+
+- Did the author develop one or more key performance indicators (KPIs)?
+
+- Did the author provide a way of assessing the performance and accuracy of their solution?
+
+- Are the KPIs useful for discussing relationships between social issues and environmental issues and demonstrating whether city and corporate ambitions take these factors into account?
+
+- Do the KPIs accurately reflect the underlying data?
+
+### Communication
+
+- Does the notebook have a compelling and coherent narrative?
+
+- Does the notebook contain data visualizations that help to communicate the author’s main points?
+
+- Did the author include a thorough discussion on the intersection between environmental issues and social issues?
+
+- Was there discussion of automated insight generation, demonstrating whether city and corporate ambitions take these factors into account?
+
+### Documentation
+
+- Is the code documented in a way that makes it easy to understand and reproduce?
+
+- Were all external sources of data made public and cited appropriately?
+
+-------
+
+## Overview of the Data:
 The CDP dataset consists of publicly available responses to 3 different surveys: 
 
 (1) corporate climate change disclosures; 
@@ -135,6 +176,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6267440/
 
 https://www.fir-pri-awards.org/wp-content/uploads/MasterThesis_Chisem.pdf
 
+-------
 
 ## GitHub: Getting started with NLP: Traditional approaches
 https://github.com/edumunozsala/Intro-NLP-Text-Classification/blob/master/Intro_NLP_1_TFIDF_Text_Classification.ipynb
