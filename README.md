@@ -41,12 +41,60 @@ The CDP dataset consists of publicly available responses to 3 different surveys:
 
 A starter notebook demonstrates how to load and work with the data.
 
+-------
+
+
+
+## CDP Competition Starter Notebook
+
+https://www.kaggle.com/callumr22/cdp-starter-notebook
+
+Example data mapping, EDA and data wrangling pipeline to relate CDP Corporate response data to CDP Cities data and external data sets containing social equity data.
+
+### Parameters
+
+### Input
+### CDP Corporate Questionnaire response data sets
+
+- 2019_Full_Climate_Change_Dataset.csv = 2019 Climate Change publically disclosed questionnaire responses for North America
+
+- 2019_Full_Water_Security_Dataset.csv = 2019 Water Security publically disclosed questionnaire responses for North America
+
+### CDP Cities Questionnaire response data sets
+
+- 2020_-_Full_Cities_Dataset.csv = Full 2020 Cities Questionnaire response data set
+
+### CDP Cities Meta data sets
+
+- NA_HQ_public_data.csv = CDP curated Organisations metadata, mapping publically disclosed North American organisations to HQ city and state
+
+### External Non-CDP data sets
+
+- SVI2018_US.csv = US Centers for Disease Control and Prevention (CDC) Social Vulnerability Index (SVI) Data for 2018 (Census tract level) - available publicly at
+
+https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html
+
+- SVI2018_US_COUNTY.csv = US Centers for Disease Control and Prevention (CDC) Social Vulnerability Index (SVI) Data for 2018 (County level) - available publicly at 
+
+https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html
+
+- uscities.csv = metadata for United States cities and towns, with information such as populations size, median age and lat,lng location coordinates - available publicly at
+
+https://simplemaps.com/data/us-cities.
+
+SVI 2018 Documentation and Data Dictionary https://www.atsdr.cdc.gov/placeandhealth/svi/documentation/SVI_documentation_2018.html
+
+### Output
+EDA and Visualisations to begin investigating the CDP competition data sets, environmental performance indicators and social-equity KPIs.
+
 
 ## Modelling
 ### What next?
 - Suggested analysis and modelling techniques that you can be apply as you tackle the competitions problem statement.
 
-- Suggestions below are only a guide. You are not limited to these approaches - use your imagination and publically available data to tackle this challenge from any angle you can dream of!
+- Suggestions below are only a guide. 
+
+You are not limited to these approaches - use your imagination and publically available data to tackle this challenge from any angle you can dream of!
 
 ### NLP principles to investigate the social-environmental overlap between Corporations and Cities Climate Change 'Readiness'
 
