@@ -1,6 +1,13 @@
 # Kaggle-CDP-Unlocking-Climate-Solutions
 Kaggle-CDP-Unlocking-Climate-Solutions
 
+### End Date (Final Submission Deadline): 
+12/02/2020 11:59 PM UTC
+
+### Winners announced:
+12/16/2020
+
+
 ## CDP: Carbon Disclosure Project
 https://www.cdp.net/en
 
@@ -12,6 +19,28 @@ The CDP (formerly the Carbon Disclosure Project) is an international non-profit 
 It aims to make environmental reporting and risk management a business norm, driving disclosure, insight, and action towards a sustainable economy.
 
 Since 2002 over 8,400 companies have publicly disclosed environmental information through CDP.
+
+### PROBLEM STATEMENT
+
+- Develop a methodology for calculating key performance indicators (KPIs) that relate to the environmental and social issues that are discussed in the CDP survey data. 
+
+- Leverage external data sources and thoroughly discuss the intersection between environmental issues and social issues. 
+
+- Mine information to create automated insight generation demonstrating whether city and corporate ambitions take these factors into account.
+
+
+
+### Overview of the Data:
+The CDP dataset consists of publicly available responses to 3 different surveys: 
+
+(1) corporate climate change disclosures; 
+
+(2) corporate water security disclosures; and 
+
+(3) disclosures from cities. Data is available for 2018, 2019, and 2020, along with a small collection of supplementary datasets. 
+
+A starter notebook demonstrates how to load and work with the data.
+
 
 ## Modelling
 ### What next?
