@@ -1,7 +1,7 @@
 # Kaggle-CDP-Unlocking-Climate-Solutions
 Kaggle-CDP-Unlocking-Climate-Solutions
 
-## CDP
+## CDP: Carbon Disclosure Project
 https://www.cdp.net/en
 
 ### Wikipedia
