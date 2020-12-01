@@ -20,7 +20,7 @@ https://www.cdp.net/en
 
 - Apply sentiment analysis to detect whether a city sees opportunity (positive sentiment/polarity) (Cities Question 6.0) or concern (negative sentiment/polarity) (City Question 2.2) over future climate scenarios
 
-Combine DTM and Sentiment analysis to build a combined KPI that incorporates measures of sentiment and susceptibility into one metric, identifying cities with high levels of percieved risk who may be open to colloboration with business as they foster climate resilience.
+- Combine DTM and Sentiment analysis to build a combined KPI that incorporates measures of sentiment and susceptibility into one metric, identifying cities with high levels of percieved risk who may be open to colloboration with business as they foster climate resilience.
 
     - e.g. Sentiment x Susceptibility  = Climate Risk Sensitivity Score
 
