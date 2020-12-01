@@ -20,6 +20,8 @@ It aims to make environmental reporting and risk management a business norm, dri
 
 Since 2002 over 8,400 companies have publicly disclosed environmental information through CDP.
 
+-------
+
 ### PROBLEM STATEMENT
 
 - Develop a methodology for calculating key performance indicators (KPIs) that relate to the environmental and social issues that are discussed in the CDP survey data. 
